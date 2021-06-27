@@ -1,0 +1,20 @@
+{
+  "name": "typescript-lab",
+  "version": "1.0.0",
+  "description": "Own lab of typescript lessons",
+  "main": "module01.js",
+  "scripts": {
+    "build": "tsc",
+    "ts": "ts-node module01.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seventty/typescript-lab.git"
+  },
+  "author": "Seventty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seventty/typescript-lab/issues"
+  },
+  "homepage": "https://github.com/Seventty/typescript-lab#readme"
+}
